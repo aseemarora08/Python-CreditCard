@@ -1,6 +1,7 @@
 # Python-CreditCard
 
 **Introduction:**
+
 This project delves into credit card applications, scrutinizing diverse factors such as gender, age, debt history, and employment duration to assess an applicant's reliability for bank approval. The central question is whether we can predict successful credit card applications using a multivariate business dataset from Quinlan, J. R. The dataset encompasses a mix of integer, real, and categorical variables, including "Gender," "Age," "Debt," "CreditScore," and more. This exploration aims to unravel the complex relationships influencing credit card approval decisions.
 
 **Preliminary Exploratory Data Analysis:**
@@ -30,7 +31,8 @@ This project delves into credit card applications, scrutinizing diverse factors 
 - Potential future inquiries include identifying and rectifying biases in credit card approval, improving the system for fairness, assessing the impact of prior debt on approval, and developing predictive tools for approval likelihood.
 
 
-**Credit Card: Navigating Insights and Building Models**
+
+## **Credit Card: *Navigating Insights and Building Models***
 
 For this comprehensive analysis of credit card applications, I delved into various factors, including gender and employment history, to evaluate applicants' reliability for bank approval. My traditional focus on credit score as a primary consideration for loan and credit card decisions, as highlighted by Wagner (2004), prompted a nuanced exploration. The comparison of credit score with debt history, age, and income led to the development of a KNN-Neighbors algorithm, aiming to predict approvals based on the "Credit Approval" dataset from the UC Irvine Machine Learning Repository.
 
